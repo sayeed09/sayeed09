@@ -1,3 +1,6 @@
+# Hola, I'm [Sayeed Shaikh!](https://developing-gamer.github.io/#/) <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>
+
+
 # 💫 About Me:
 🔭 I’m currently working on my Skills.<br>🌱 I’m currently learning more about the Web.<br>🤔 I’m looking for help with Exploring New Technologies.<br>💬 Ask me about any tech-related stuff.<br>📫 How to reach me: Email - sayeedshaikh09@gmail.com<br>😄 Pronouns: He/His<br>⚡ Fun fact: My favorite food is chicken 🥘<br><br>
 
