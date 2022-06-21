@@ -1,4 +1,4 @@
-# Hola, I'm [Sayeed Shaikh!](https://developing-gamer.github.io/#/) <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>
+# Hola, I'm Sayeed Shaikh! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>
 
 
 # 💫 About Me:
